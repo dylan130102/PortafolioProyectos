@@ -31,7 +31,7 @@ Puedes acceder a mi portafolio en línea visitando [este enlace](https://portafo
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/dylan130102/tu-repositorio.git
+   git clone https://github.com/dylan130102/PortafolioProyectos
 
 ## Desarrollado por
 ## Dylan Marciscano - Programador Front-End Jr.
