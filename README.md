@@ -27,7 +27,7 @@ El proyecto está construido con las siguientes tecnologías:
 
 ## Cómo ver el portafolio
 
-Puedes acceder a mi portafolio en línea visitando [este enlace](https://portafolio-proyectos-fe5y.vercel.app/).
+Puedes acceder a mi portafolio en línea visitando [este enlace](https://portafolio-proyectos-rho.vercel.app/).
 
 ## Configuración del proyecto
 
