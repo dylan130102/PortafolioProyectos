@@ -1,9 +1,5 @@
 # Portafolio de Dylan Marciscano
 
-<p align="center">
-    <img width="600" height="600" src="assets/imagenDMR.png">
-</p>
-
 ## Bienvenido a mi portafolio personal
 
 Este repositorio contiene el código fuente de mi portafolio, un sitio web diseñado para mostrar mis habilidades, proyectos y experiencia como programador Front-End Jr. El portafolio fue desarrollado utilizando tecnologías web modernas como HTML, CSS y JavaScript, y está optimizado para ser visualizado en dispositivos móviles, tabletas y escritorios.
