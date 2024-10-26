@@ -22,8 +22,6 @@ El proyecto está construido con las siguientes tecnologías:
 
 - **HTML5**: Para la estructura del sitio web.
 - **CSS3**: Para el diseño y la estilización de la página.
-- **JavaScript**: Para agregar interactividad y validación de formularios.
-- **EmailJS**: Para gestionar el envío de correos a través del formulario de contacto.
 
 ## Cómo ver el portafolio
 
